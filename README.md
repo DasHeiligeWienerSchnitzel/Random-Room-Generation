@@ -4,6 +4,8 @@ Ein prozeduraler **Room Generator für Arma 3**, der auf vordefinierten **Preset
 Das System verwendet **Collision Detection**, um Überschneidungen zwischen Räumen zu vermeiden. Falls keine gültige Platzierung mehr möglich ist und die Generation in eine echte Sackgasse läuft, wird der Vorgang **frühzeitig beendet**.
 
 ---
+![Alternative Text](randomroomgeneration.gif)
+---
 
 ## Features
 
